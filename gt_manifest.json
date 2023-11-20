@@ -1,0 +1,6 @@
+{
+    "name": "GarageTouch",
+    "short_name": "GarageTouch",
+    "display": "standalone",
+    "orientation": "portrait",
+}
