@@ -3,4 +3,5 @@
     "short_name": "GarageTouch",
     "display": "standalone",
     "orientation": "portrait",
+    "start_url": "https://garagetouch.webflow.io/app/home",   
 }
