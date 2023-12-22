@@ -3,5 +3,5 @@
     "short_name": "GarageTouch",
     "display": "standalone",
     "orientation": "portrait",
-    "start_url": "https://www.garagetouch.com/app/home"
+    "start_url": "https://www.garagetouch.com/"
 }
