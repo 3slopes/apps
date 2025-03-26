@@ -1,0 +1,7 @@
+{
+    "name": "GarageTouch",
+    "short_name": "GarageTouch",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https://my.garagetouch.com"
+}
