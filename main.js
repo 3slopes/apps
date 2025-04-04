@@ -1,3 +1,7 @@
+var script = document.createElement('script');
+script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+
 /*
     jQuery Masked Input Plugin
     Copyright (c) 2007 - 2014 Josh Bush (digitalbush.com)
