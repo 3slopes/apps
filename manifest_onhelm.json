@@ -1,0 +1,7 @@
+{
+    "name": "onhelm",
+    "short_name": "onhelm",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https://onhelm.com"
+}
